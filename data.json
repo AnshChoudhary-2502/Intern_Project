@@ -1,0 +1,36 @@
+{
+  "students": [
+    { "id": 101, "name": "Ansh Choudhary", "marks": {} },
+    { "id": 102, "name": "Khushi Nandaniya", "marks": {} },
+    { "id": 103, "name": "Rahul Sharma", "marks": {} },
+    { "id": 104, "name": "Aditi Verma", "marks": {} },
+    { "id": 105, "name": "Rohan Patel", "marks": {} },
+    { "id": 106, "name": "Neha Singh", "marks": {} },
+    { "id": 107, "name": "Aman Gupta", "marks": {} },
+    { "id": 108, "name": "Priya Mehta", "marks": {} },
+    { "id": 109, "name": "Kunal Joshi", "marks": {} },
+    { "id": 110, "name": "Sneha Iyer", "marks": {} },
+
+    { "id": 111, "name": "Vikas Malhotra", "marks": {} },
+    { "id": 112, "name": "Pooja Rana", "marks": {} },
+    { "id": 113, "name": "Arjun Kapoor", "marks": {} },
+    { "id": 114, "name": "Nisha Kulkarni", "marks": {} },
+    { "id": 115, "name": "Sahil Khan", "marks": {} },
+    { "id": 116, "name": "Ritika Jain", "marks": {} },
+    { "id": 117, "name": "Mohit Agarwal", "marks": {} },
+    { "id": 118, "name": "Simran Kaur", "marks": {} },
+    { "id": 119, "name": "Yash Thakur", "marks": {} },
+    { "id": 120, "name": "Kavya Nair", "marks": {} },
+
+    { "id": 121, "name": "Nikhil Bansal", "marks": {} },
+    { "id": 122, "name": "Isha Saxena", "marks": {} },
+    { "id": 123, "name": "Dev Mishra", "marks": {} },
+    { "id": 124, "name": "Anjali Deshpande", "marks": {} },
+    { "id": 125, "name": "Harsh Vardhan", "marks": {} },
+    { "id": 126, "name": "Mehul Soni", "marks": {} },
+    { "id": 127, "name": "Riya Chatterjee", "marks": {} },
+    { "id": 128, "name": "Abhishek Roy", "marks": {} },
+    { "id": 129, "name": "Tanvi Kulkarni", "marks": {} },
+    { "id": 130, "name": "Suresh Yadav", "marks": {} }
+  ]
+}
